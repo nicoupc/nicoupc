@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since my first cloud deployment 😅<br>📚 I'm currently learning AWS<br>🎯 Goals: Become an AWS expert and get certified as a Solutions Architect.<br>🎲 Fun fact: I thought I deleted all my resources… until I saw my AWS bill. 💀</p>
 
 ###
 
