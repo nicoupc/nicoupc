@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91FA&center=true&vCenter=true&width=500&lines=Hi!+I'm+Nicolas+Ventosilla;Software+Engineering+Student;AWS+%26+Backend+Enthusiast" alt="Typing SVG" />
 
   <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   </div>
   
   <h3>🚀 Building scalable solutions on the Cloud</h3>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-
+  
+  <a href="https://linkedin.com/in/nicolasventosilla/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="mailto:nicoventosilla@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
+  <a href="https://medium.com/@nicolasventosilla" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" /></a>
 </div>
 
 <hr/>
@@ -42,9 +43,8 @@ I am a **Software Engineering student** based in Lima, Peru, with a strong backg
 ### 🏆 Certifications
 
 <div align="left">
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" height="35"/>
-  </a>
+  <a href="https://www.credly.com/badges/091cf997-4543-456c-a789-3f74853fdfbb/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" height="35"/></a>
+  <a href="https://www.credly.com/badges/de8a4c78-690a-4bf7-bda0-3416573fa541/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" height="35"/></a>
 </div>
 
 <br/>
@@ -53,7 +53,7 @@ I am a **Software Engineering student** based in Lima, Peru, with a strong backg
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nicoupc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nicoupc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 <br/>
