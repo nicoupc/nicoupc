@@ -1,17 +1,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E91FA&center=true&vCenter=true&width=500&lines=Hi!+I'm+Nicolas+Ventosilla;Software+Engineering+Student;AWS+%26+Backend+Enthusiast" alt="Typing SVG" />
+
+  <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  </div>
   
   <h3>🚀 Building scalable solutions on the Cloud</h3>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 
-  <a href="https://linkedin.com/in/nicolasventosilla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:nicoventosilla@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
 </div>
 
-<br/>
 <hr/>
 
 ### 👨‍💻 About Me
@@ -22,8 +21,6 @@ I am a **Software Engineering student** based in Lima, Peru, with a strong backg
 * 🌱 **I’m currently learning:** Advanced AWS services and Serverless patterns.
 * 🎯 **Goals:** Become a Certified Solutions Architect.
 * ⚡ **Fun fact:** I thought I deleted all my resources… until I saw my AWS bill. 💀
-
-<br/>
 
 ### ☁️ Cloud & DevOps
 <div align="left">
@@ -56,23 +53,15 @@ I am a **Software Engineering student** based in Lima, Peru, with a strong backg
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicoupc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoupc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=nicoupc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nicoupc&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
-</div>
+###
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoupc/nicoupc/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoupc/nicoupc/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nicoupc/nicoupc/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicoupc/nicoupc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoupc/nicoupc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nicoupc/nicoupc/output/pacman-contribution-graph.svg">
+</picture>
