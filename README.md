@@ -10,6 +10,7 @@
   <a href="https://linkedin.com/in/nicolasventosilla/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
   <a href="mailto:nicoventosilla@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
   <a href="https://medium.com/@nicolasventosilla" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" /></a>
+  <a href="https://github.com/nicoventosilla" target="_blank"><img src="https://img.shields.io/badge/Personal%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="personal github" /></a>
 </div>
 
 <hr/>
@@ -53,10 +54,8 @@ I am a **Software Engineering student** based in Lima, Peru, with a strong backg
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nicoupc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=nicoupc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-<br/>
 
 ###
 
@@ -65,3 +64,5 @@ I am a **Software Engineering student** based in Lima, Peru, with a strong backg
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoupc/nicoupc/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nicoupc/nicoupc/output/pacman-contribution-graph.svg">
 </picture>
+
+###
