@@ -7,7 +7,7 @@
   
   <h3>🚀 Building scalable solutions on the Cloud</h3>
 
-<hr/>
+</div>
 
 ### 👨‍💻 About Me
 
