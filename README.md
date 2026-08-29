@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineering student** based in Lima, Peru, with a strong background in **Cybersecurity fundamentals**. My passion lies in designing robust Backend architectures and deploying efficient infrastructure on **AWS**.
+I am a **Software Engineering student** based in Lima, Peru. My passion lies in designing robust Backend architectures and deploying efficient infrastructure on **AWS**.
 
 * 🔭 **I’m currently working on:** Deepening my knowledge in Microservices and Cloud Architecture.
 * 🌱 **I’m currently learning:** Advanced AWS services and Serverless patterns.
